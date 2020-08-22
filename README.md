@@ -1,6 +1,6 @@
 # KartRacingGame
- Kart Racing Game Demo (For Computer Temporarily)
- 卡丁賽車遊戲展示，目前只有電腦版本
+- Kart Racing Game Demo (For Computer Temporarily)
+- 卡丁賽車遊戲展示，目前只有電腦版本
 
 ## Download executable file (下載執行檔)
 https://drive.google.com/drive/folders/1VtNycZdxL6uyIrhtuN6zawLP5orSMbcY?usp=sharing
@@ -16,5 +16,5 @@ https://drive.google.com/drive/folders/1VtNycZdxL6uyIrhtuN6zawLP5orSMbcY?usp=sha
 1. T：Switch to another player's perspective (T：切換至其他玩家視角)
 
 ## The technology I used (我使用的技術)
- 全部獨立製作，場景與車子是Unity Asset Store與一些課程素材
- Unity Engine, C#, Photon, Shader(CG)
+- 全部獨立製作，場景與車子是Unity Asset Store與一些課程素材
+- Unity Engine, C#, Photon, Shader(CG)
