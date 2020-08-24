@@ -2,6 +2,9 @@
 - Kart Racing Game Demo (For Computer Temporarily)
 - 卡丁賽車遊戲展示，目前只有電腦版本
 
+## Demo Video
+https://youtu.be/TwrFq_P4x8g
+
 ## Download executable file (下載執行檔)
 https://drive.google.com/drive/folders/1VtNycZdxL6uyIrhtuN6zawLP5orSMbcY?usp=sharing
 
